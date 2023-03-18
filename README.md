@@ -1,5 +1,7 @@
 <p align="center">
   <h1>Proletarian Distributed Computing (PDC)</h1>
+  <!-- img import -->
+    <img src="https://raw.githubusercontent.com/Gteditor99/pdc/main/meme.jpeg" alt="PDC Logo" width="200" height="200">
   <h2>Overview</h2>
   <p>Proletarian Distributed Computing (PDC) is a distributed computing framework built with a classless language (rust) that allows users to easily distribute computing tasks across multiple machines. The framework consists of a set of worker nodes and a central coordinator node that manages the distribution of tasks.</p>
   
