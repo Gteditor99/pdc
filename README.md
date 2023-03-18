@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>Proletarian Distributed Computing (PDC)</h1>
+  <h1>(proof of concept) Proletarian Distributed Computing (PDC)</h1>
   <!-- img import -->
     <img src="https://raw.githubusercontent.com/Gteditor99/pdc/main/meme.jpeg" alt="PDC Logo" width="200" height="200">
   <h2>Overview</h2>
